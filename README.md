@@ -1,4 +1,6 @@
 🛒 E-commerce AI Agent
+
+
 This project builds an AI-powered agent that can answer natural language questions about e-commerce data by:
 
 Translating the question into SQL,
